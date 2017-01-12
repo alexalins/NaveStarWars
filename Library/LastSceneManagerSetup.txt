@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/AlexaLins/Documents/MineCurso/Assets/Scenes/cena_1.unity
+  isLoaded: 1
+  isActive: 1
